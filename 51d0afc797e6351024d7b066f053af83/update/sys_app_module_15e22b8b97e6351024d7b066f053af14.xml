@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Demo">95af7e1397561110fa6733121153af5c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Test Module</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query>doSomething</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 15:06:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15e22b8b97e6351024d7b066f053af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Module</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo Updates" source="x_53417_demo_updat">51d0afc797e6351024d7b066f053af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</sys_scope>
+        <sys_update_name>sys_app_module_15e22b8b97e6351024d7b066f053af14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 15:06:51</sys_updated_on>
+        <timeline_page/>
+        <title>Test Module</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
