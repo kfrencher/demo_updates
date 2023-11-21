@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Demo Updates</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 15:20:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f16a78f97e6351024d7b066f053af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Updates</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo Updates" source="x_53417_demo_updat">51d0afc797e6351024d7b066f053af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</sys_scope>
+        <sys_update_name>sys_ui_application_9f16a78f97e6351024d7b066f053af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 15:20:39</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</application>
+        <file_path/>
+        <instance_id>ac212348db1f19180288c59705961994</instance_id>
+        <instance_name>dev144209</instance_name>
+        <name>sys_ui_application_9f16a78f97e6351024d7b066f053af48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Demo Updates</name><order/><roles/><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 15:20:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9f16a78f97e6351024d7b066f053af48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Updates</sys_name><sys_overrides/><sys_package display_value="Demo Updates" source="x_53417_demo_updat">51d0afc797e6351024d7b066f053af83</sys_package><sys_policy/><sys_scope display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</sys_scope><sys_update_name>sys_ui_application_9f16a78f97e6351024d7b066f053af48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 15:20:39</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-1140981137</payload_hash>
+        <record_name>Demo Updates</record_name>
+        <reverted_from display_value="sys_ui_application_9f16a78f97e6351024d7b066f053af48">d316a78f97e6351024d7b066f053af4b</reverted_from>
+        <source>90d2678b97e6351024d7b066f053af95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 15:22:25</sys_created_on>
+        <sys_id>8586a3cf97e6351024d7b066f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf279b9090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 15:22:25</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c98663cf6ee6351021a943f1b00cdc43</update_guid>
+        <update_guid_history>c98663cf6ee6351021a943f1b00cdc43:-1140981137,d9262b8fdfe635101ff29cd7c4980700:156372113,d716a78f62e63510677d805fb5f0934a:-1140981137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 15:22:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>11b72b8748044194a298326ebb69c344</sys_id>
+        <sys_metadata>9f16a78f97e6351024d7b066f053af48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Updates</sys_name>
+        <sys_package display_value="Demo Updates" source="x_53417_demo_updat">51d0afc797e6351024d7b066f053af83</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</sys_scope>
+        <sys_scope_delete display_value="">6398169888e24c989b8b7ecdaa9c5921</sys_scope_delete>
+        <sys_update_name>sys_ui_application_9f16a78f97e6351024d7b066f053af48</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_9f16a78f97e6351024d7b066f053af48">8586a3cf97e6351024d7b066f053af19</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 15:22:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
