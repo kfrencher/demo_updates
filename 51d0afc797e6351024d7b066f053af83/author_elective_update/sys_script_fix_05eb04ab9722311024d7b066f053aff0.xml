@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="DELETE">
+        <before>false</before>
+        <description/>
+        <name>Log message from branch again</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[gs.info('Loggin from branch again');]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 12:44:10</sys_created_on>
+        <sys_id>05eb04ab9722311024d7b066f053aff0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Log message from branch again</sys_name>
+        <sys_package display_value="Demo Updates" source="x_53417_demo_updat">51d0afc797e6351024d7b066f053af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</sys_scope>
+        <sys_update_name>sys_script_fix_05eb04ab9722311024d7b066f053aff0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 13:15:22</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</application>
+        <file_path/>
+        <instance_id>ac212348db1f19180288c59705961994</instance_id>
+        <instance_name>dev144209</instance_name>
+        <name>sys_script_fix_05eb04ab9722311024d7b066f053aff0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;
+    &lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;
+        &lt;before&gt;false&lt;/before&gt;
+        &lt;description/&gt;
+        &lt;name&gt;Log message from branch again&lt;/name&gt;
+        &lt;record_for_rollback&gt;true&lt;/record_for_rollback&gt;
+        &lt;script&gt;&lt;![CDATA[gs.info('Loggin from branch again');]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2023-11-22 12:44:10&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;05eb04ab9722311024d7b066f053aff0&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Log message from branch again&lt;/sys_name&gt;
+        &lt;sys_package display_value="Demo Updates" source="x_53417_demo_updat"&gt;51d0afc797e6351024d7b066f053af83&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Demo Updates"&gt;51d0afc797e6351024d7b066f053af83&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_script_fix_05eb04ab9722311024d7b066f053aff0&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2023-11-22 13:15:22&lt;/sys_updated_on&gt;
+        &lt;unloadable&gt;false&lt;/unloadable&gt;
+    &lt;/sys_script_fix&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-1295304601</payload_hash>
+        <record_name>Log message from branch again</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 13:27:30</sys_created_on>
+        <sys_id>a7c5982b9762311024d7b066f053af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf736df430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 13:27:30</sys_updated_on>
+        <type>Fix Script</type>
+        <update_guid>67c5982bee623110c56e2b28cb2bb98e</update_guid>
+        <update_guid_history>8fa5942b3f623110daf5c6947afdaf58:-1049771983,39039ce3dc62311092b96c913a1e0ed3:1987392957,1ca190e311623110d1e76a15a0594e62:916239335</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 13:27:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_fix">sys_script_fix</sys_db_object>
+        <sys_id>0ef3f4394dfe40d08410405c87e80100</sys_id>
+        <sys_metadata>05eb04ab9722311024d7b066f053aff0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log message from branch again</sys_name>
+        <sys_package display_value="Demo Updates" source="x_53417_demo_updat">51d0afc797e6351024d7b066f053af83</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo Updates">51d0afc797e6351024d7b066f053af83</sys_scope>
+        <sys_scope_delete display_value="">6398169888e24c989b8b7ecdaa9c5921</sys_scope_delete>
+        <sys_update_name>sys_script_fix_05eb04ab9722311024d7b066f053aff0</sys_update_name>
+        <sys_update_version display_value="sys_script_fix_05eb04ab9722311024d7b066f053aff0">a7c5982b9762311024d7b066f053af8e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 13:27:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
